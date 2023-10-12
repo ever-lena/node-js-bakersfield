@@ -175,3 +175,13 @@ Shared memory access, further reducing the overhead of inter-process data sharin
 Here at Hybrid Web Agency, we offer professional [Node.js development services in Dallas](https://hybridwebagency.com/dallas-tx/node-js-development-services/), equipped with features like worker threads to build high-performance and scalable systems for our clients. Whether you require assistance in optimizing an existing application, developing a new CPU-intensive microservice, or modernizing your infrastructure, our team of experienced Node.js developers is ready to help you maximize the capabilities of your Node-based systems.
 
 Through strategic architectural planning, benchmarking, deployment automation, and more, we ensure that your applications fully harness the potential of multi-core infrastructure. Feel free to get in touch with us to explore how our Node.js development services can empower your business to make the most of this rapidly advancing technology stack.
+
+
+## References
+- Node.js documentation on worker threads: https://nodejs.org/api/worker_threads.html
+- Documentation page explaining multi-threading model in Node.js: https://nodejs.org/api/worker_threads.html#multithreaded-javascript
+- Guide on using thread pools with worker_threads: https://nodejs.org/api/worker_threads.html#thread-pools
+- Articles on Node.js performance best practices from Node.js foundation: https://nodejs.org/en/docs/guides/nodejs-performance-best-practices/
+- Documentation for known asynchronous functions in core Node.js modules: https://nodejs.org/api/async_hooks.html
+- Reference documentation for Cluster module used for multi-processing: https://nodejs.org/api/cluster.html
+
